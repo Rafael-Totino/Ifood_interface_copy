@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ifood_copy</string>
+    <string name="label_restaurantes">Restaurantes</string>
+    <string name="label_mercados">Mercados</string>
+    <string name="label_bebidas">Bebidas</string>
+
+</resources>
